@@ -1,0 +1,6 @@
+MANUFACTURER = "Google"
+MODEL_NAME = "DemoKit"
+DESCRIPTION = "test"
+VERSION = "1.0"
+URL = "https://google.com"
+SERIAL_NUMBER = "1"
